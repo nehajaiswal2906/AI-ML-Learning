@@ -2,12 +2,12 @@
 
 My structured journey toward becoming an AI/ML engineer.
 
-## Python
+## Current Progress
 
-### Basics
-- Conditionals
+- Python basics
 - Loops
 - Strings
+- Git & GitHub fundamentals
 
 ## Projects
 
